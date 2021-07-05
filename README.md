@@ -7,7 +7,7 @@
 I'm a Software Engineer in Korea, 
 and also a lazy developer who loves 💻programming, 🎮video games, 🧗‍♂️exercises, 😀talking, 🦝animals and ⛄animations 🥰 ~and Vim~
 
-enjoying one ☕ a day
+Enjoying one ☕ a day
 
 ### ✨ I've used before
 
