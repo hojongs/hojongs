@@ -15,10 +15,10 @@ I enjoy one ☕ a day
 > **bold things** are more experienced, others are less.
 
 - Programming languages: **C, Java, Kotlin, Python**, C++, Javascript, Node.js, Typescript, Rust, C#, ActionScript
-- Server frameworks: **Spring Boot, Flask, gRPC**, Spring Data JPA
+- Server frameworks: **Spring Boot, Flask, gRPC**, Spring Data JPA, Django
 - Cloud services: **AWS**, GCP
 - Database Engines: **PostgreSQL**, MySQL, Firebase, SQLite
-- Libraries: reactor-core, FFmpeg, Windows API, Java Swing, BeautifulSoup, Selenium
+- Libraries: reactor-core, FFmpeg, Windows API, Java Swing, BeautifulSoup, Selenium, Retrofit, OpenCL
 - Platforms: Linux, Android
 - Collaboration/Documentation Tools: Jira, Slack, Notion, Trello, MkDocs
 - Others: Docker, Kubernetes, Prometheus, Grafana, ELK, Kafka, Git, k6, ghz, graphQL, Github Actions, Github Package Registry, Nexus Repository, Jenkins, Tensorflow, Caffe2, Gradle, CMake, Make, Redis, Jenkins, jQuery, Nginx, Vue.js
