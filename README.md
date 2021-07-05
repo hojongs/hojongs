@@ -14,7 +14,7 @@ Enjoying one ☕ a day
 > **bold things** are more experienced, others are less.
 
 - Programming languages: **C, Java, Kotlin, Python**, C++, Javascript, Node.js, Typescript, Rust, C#, ActionScript
-- Server frameworks: **Spring Boot, Flask, gRPC**, Spring Data JPA, Django
+- Server frameworks: **Spring Boot, gRPC**, Spring Data JPA, Django, Flask
 - Cloud services: **AWS**, GCP
 - Database Engines: **PostgreSQL**, MySQL, Firebase, SQLite
 - Libraries: reactor-core, FFmpeg, Windows API, Java Swing, BeautifulSoup, Selenium, Retrofit, OpenCL
