@@ -4,11 +4,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojongs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Software Engineer in Korea.
+I'm a Software Engineer in Korea, 
+and also a lazy developer who loves 💻programming, 🎮video games, 🧗‍♂️exercises, 😀talking, 🦝animals and ⛄animations 🥰 ~and Vim~
 
-I'm a lazy developer who loves 💻programming, 🎮video games, 🧗‍♂️exercises, 😀talking, 🦝animals and ⛄animations 🥰 ~and Vim~
-
-I enjoy one ☕ a day
+enjoying one ☕ a day
 
 ### ✨ I've used before
 
