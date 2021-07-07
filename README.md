@@ -25,9 +25,9 @@ Enjoying one ☕ a day
 - Performance Test Tools: k6, ghz
 - Frontend: jQuery, Vue.js
 - IaC: Terraform
-- Collaboration/Documentation Tools: Jira, Slack, Notion, Trello, MkDocs
+- Collaboration/Documentation Tools: Jira, Slack, Notion, Trello, MkDocs, Dokka
 - Development Tools: Git, Gradle, CMake, Make, Github Package Registry, Nexus Repository, Visual Studio Code, Intellij IDEA, WebStorm, PyCharm
-- Others: Kafka, Nginx, Jenkins, Redis, HashiCorp Vault
+- Others: Kafka, Nginx, Jenkins, Redis, HashiCorp Vault, Detekt, ktlint
 
 ### ✨ I'm interested in
 - High performance(high throughput/low latency), High availability, Functional programming, distributed computing, DDD: Domain Driven Architecture, MSA: Microservices Architecture, Layered Architecture, Clean Architecture, TDD, parallel programming, Deep Learning, Machine Learning, Golang, Scala, Cassandra, Hadoop, Istio, Envoy
