@@ -20,10 +20,10 @@ Enjoying one ☕ a day
 - Libraries: reactor-core, FFmpeg, Windows API, Java Swing, BeautifulSoup, Selenium, Retrofit, OpenCL
 - Platforms: Linux, Android
 - Collaboration/Documentation Tools: Jira, Slack, Notion, Trello, MkDocs
-- Others: Docker, Kubernetes, Prometheus, Grafana, Elasticsearch, Kibana, Kafka, Git, k6, ghz, graphQL, Github Actions, Github Package Registry, Nexus Repository, Jenkins, Tensorflow, Caffe2, Gradle, CMake, Make, Redis, jQuery, Nginx, Vue.js, Helm, Terraform, Spinnaker (Deck), Code Climate, Codecov
+- Others: Docker, Kubernetes, Prometheus, Grafana, Elasticsearch, Kibana, Kafka, Git, k6, ghz, graphQL, Github Actions, Github Package Registry, Nexus Repository, Jenkins, Tensorflow, Caffe2, Gradle, CMake, Make, Redis, jQuery, Nginx, Vue.js, Helm, Terraform, Spinnaker (Deck), HashiCorp Vault, Code Climate, Codecov
 
 ### ✨ I'm interested in
-- High performance(high throughput/low latency), High availability, Functional programming, distributed computing, DDD: Domain Driven Architecture, MSA: Microservices Architecture, Layered Architecture, Clean Architecture, TDD, parallel programming, Deep Learning, Machine Learning, Golang, Scala, Cassandra
+- High performance(high throughput/low latency), High availability, Functional programming, distributed computing, DDD: Domain Driven Architecture, MSA: Microservices Architecture, Layered Architecture, Clean Architecture, TDD, parallel programming, Deep Learning, Machine Learning, Golang, Scala, Cassandra, Hadoop
 
 <!--
 **hojongs/hojongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
