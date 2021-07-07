@@ -20,13 +20,13 @@ Enjoying one ☕ a day
 - Libraries: reactor-core, FFmpeg, Windows API, Java Swing, BeautifulSoup, Selenium, Retrofit, OpenCL
 - Platforms: Linux, Android
 - Collaboration/Documentation Tools: Jira, Slack, Notion, Trello, MkDocs
-- Development Tools: Git, Gradle, CMake, Make, Github Package Registry, Nexus Repository
 - Machine Learning: Tensorflow, Caffe2
 - CI/CD: Github Actions, Code Climate, Codecov
 - Server Deployment&Operation: Docker, Kubernetes, Prometheus, Grafana, Elasticsearch, Kibana, Spinnaker (Deck), Helm
 - IaC: Terraform
 - Performance Test Tools: k6, ghz
 - Frontend: jQuery, Vue.js
+- Development Tools: Git, Gradle, CMake, Make, Github Package Registry, Nexus Repository, Visual Studio Code, Intellij IDEA, WebStorm, PyCharm
 - Others: Kafka, Nginx, Jenkins, Redis, HashiCorp Vault
 
 ### ✨ I'm interested in
