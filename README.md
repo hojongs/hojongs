@@ -14,20 +14,20 @@ Enjoying one ☕ a day
 > **bold things** are more experienced, others are less.
 
 - Programming languages: **C, Java, Kotlin, Python**, C++, Javascript, Node.js, Typescript, Rust, C#, ActionScript
-- Server frameworks: **Spring Boot, gRPC**, Spring Data JPA, Django, Flask
+- Server frameworks: **Spring Boot, gRPC**, Spring Data JPA, Django, Flask, GraphQL
 - Cloud services: **AWS**, GCP
 - Database Engines: **PostgreSQL**, MySQL, Firebase, SQLite
 - Libraries: reactor-core, FFmpeg, Windows API, Java Swing, BeautifulSoup, Selenium, Retrofit, OpenCL
 - Platforms: Linux, Android
 - Collaboration/Documentation Tools: Jira, Slack, Notion, Trello, MkDocs
-- Build Tools: Gradle, CMake, Make
+- Development Tools: Git, Gradle, CMake, Make, Github Package Registry, Nexus Repository
 - Machine Learning: Tensorflow, Caffe2
 - CI/CD: Github Actions, Code Climate, Codecov
 - Server Deployment&Operation: Docker, Kubernetes, Prometheus, Grafana, Elasticsearch, Kibana, Spinnaker (Deck), Helm
 - IaC: Terraform
 - Performance Test Tools: k6, ghz
 - Frontend: jQuery, Vue.js
-- Others: Kafka, Nginx, Git, GraphQL, Github Package Registry, Nexus Repository, Jenkins, Redis, HashiCorp Vault
+- Others: Kafka, Nginx, Jenkins, Redis, HashiCorp Vault
 
 ### ✨ I'm interested in
 - High performance(high throughput/low latency), High availability, Functional programming, distributed computing, DDD: Domain Driven Architecture, MSA: Microservices Architecture, Layered Architecture, Clean Architecture, TDD, parallel programming, Deep Learning, Machine Learning, Golang, Scala, Cassandra, Hadoop
