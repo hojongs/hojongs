@@ -30,7 +30,7 @@ Enjoying one ☕ a day
 - Others: Kafka, Nginx, Jenkins, Redis, HashiCorp Vault
 
 ### ✨ I'm interested in
-- High performance(high throughput/low latency), High availability, Functional programming, distributed computing, DDD: Domain Driven Architecture, MSA: Microservices Architecture, Layered Architecture, Clean Architecture, TDD, parallel programming, Deep Learning, Machine Learning, Golang, Scala, Cassandra, Hadoop
+- High performance(high throughput/low latency), High availability, Functional programming, distributed computing, DDD: Domain Driven Architecture, MSA: Microservices Architecture, Layered Architecture, Clean Architecture, TDD, parallel programming, Deep Learning, Machine Learning, Golang, Scala, Cassandra, Hadoop, Istio, Envoy
 
 <!--
 **hojongs/hojongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
