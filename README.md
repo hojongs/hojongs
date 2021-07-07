@@ -14,18 +14,18 @@ Enjoying one ☕ a day
 > **bold things** are more experienced, others are less.
 
 - Programming languages: **C, Java, Kotlin, Python**, C++, Javascript, Node.js, Typescript, Rust, C#, ActionScript
-- Server frameworks: **Spring Boot, gRPC**, Spring Data JPA, Django, Flask, GraphQL
+- Server frameworks: **Spring Boot, gRPC**, JPA, Django, Flask, GraphQL
 - Cloud services: **AWS**, GCP
 - Database Engines: **PostgreSQL**, MySQL, Firebase, SQLite
-- Libraries: reactor-core, FFmpeg, Windows API, Java Swing, BeautifulSoup, Selenium, Retrofit, OpenCL
-- Platforms: Linux, Android
-- Collaboration/Documentation Tools: Jira, Slack, Notion, Trello, MkDocs
-- Machine Learning: Tensorflow, Caffe2
-- CI/CD: Github Actions, Code Climate, Codecov
+- Libraries: Reactor Core, FFmpeg, Windows API, Java Swing, BeautifulSoup, Selenium, Retrofit, OpenCL
 - Server Deployment&Operation: Docker, Kubernetes, Prometheus, Grafana, Elasticsearch, Kibana, Spinnaker (Deck), Helm
-- IaC: Terraform
+- CI/CD: Github Actions, Code Climate, Codecov
+- Platforms: Linux, Android
+- Machine Learning: Tensorflow, Caffe2
 - Performance Test Tools: k6, ghz
 - Frontend: jQuery, Vue.js
+- IaC: Terraform
+- Collaboration/Documentation Tools: Jira, Slack, Notion, Trello, MkDocs
 - Development Tools: Git, Gradle, CMake, Make, Github Package Registry, Nexus Repository, Visual Studio Code, Intellij IDEA, WebStorm, PyCharm
 - Others: Kafka, Nginx, Jenkins, Redis, HashiCorp Vault
 
