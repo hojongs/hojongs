@@ -13,7 +13,7 @@ Enjoying one ☕ a day
 
 > **bold things** are more experienced, others are less.
 
-- Programming languages: **C, Java, Kotlin, Python**, C++, Javascript, Node.js, Typescript, Rust, C#, ActionScript
+- Programming languages: **Kotlin, Python, Java**, Node.js(JS/TS), C/C++, Rust, C#, ActionScript
 - Server frameworks: **Spring Boot, gRPC**, JPA, Django, Flask, GraphQL
 - Cloud services: **AWS**, GCP
 - Database Engines: **PostgreSQL**, MySQL, Firebase, SQLite
