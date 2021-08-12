@@ -11,8 +11,6 @@ Enjoying one ☕ a day
 
 ### ✨ I've used before
 
-> **bold things** are more experienced, others are less.
-
 - Programming languages: **Kotlin, Python, Java**, Node.js(JS/TS), C/C++, Rust, C#, ActionScript
 - Server frameworks: **Spring Boot, gRPC**, JPA, Django, Flask, GraphQL
 - Cloud services: **AWS**, GCP
@@ -28,6 +26,8 @@ Enjoying one ☕ a day
 - Collaboration/Documentation Tools: Jira, Slack, Notion, Trello, MkDocs, Dokka
 - Development Tools: Git, Gradle, CMake, Make, Github Package Registry, Nexus Repository, Visual Studio Code, Intellij IDEA, WebStorm, PyCharm
 - Others: Kafka, Nginx, Jenkins, Redis, HashiCorp Vault, Detekt, ktlint
+
+> **bold things** are more experienced, others are less.
 
 ### ✨ I'm interested in
 - High performance(high throughput/low latency), High availability (HA), Functional programming, distributed computing, DDD: Domain Driven Architecture, MSA: Microservices Architecture, Layered Architecture, Clean Architecture, TDD, parallel programming, Deep Learning, Machine Learning, Golang, Scala, Cassandra, Hadoop, Istio, Envoy
