@@ -11,7 +11,7 @@ Enjoying one ☕ a day
 
 ### ✨ I've used before
 
-- Programming languages: **Kotlin, Python, Java**, Node.js(JS/TS), C/C++, Rust, C#, ActionScript
+- Programming languages: **Kotlin, Python, Java, Node.js & TypeScript**, C/C++, Rust, C#, ActionScript
 - Server frameworks: **Spring Boot, gRPC**, JPA, Django, Flask, GraphQL
 - Cloud services: **AWS**, GCP
 - Database Engines: **PostgreSQL**, MySQL, Firebase, SQLite
