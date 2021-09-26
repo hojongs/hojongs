@@ -5,7 +5,7 @@
 [![hojongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojongs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a Software Engineer in Korea, 
-and also a lazy developer who loves programming 💻, video games 🎮, exercises 🧗‍, talking 😀, animals 🦝 and animations ⛄🥰 ~and Vim~
+and also a lazy developer who loves programming 💻, video games 🎮, exercises 🧗‍, talking 😀, animals 🦝 and animations ⛄🥰 (and Vim!)
 
 Enjoying one ☕ a day
 
