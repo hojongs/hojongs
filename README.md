@@ -4,33 +4,25 @@
 
 [![hojongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojongs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a Software Engineer in Korea, 
-and also a lazy developer who loves programming 💻, video games 🎮, exercises 🧗‍, talking 😀, animals 🦝 and animations ⛄🥰 (and Vim!)
+Hello! I'm a Software Engineer in Korea.
 
-Enjoying one ☕ a day
+#### Programming Language Skills
 
-### ✨ I've used before
+- Kotlin/JVM: Mainly use in backend engieering in my career
+- Python: https://github.com/hojongs/algorithm
+- Go: https://github.com/hojongs/pbkit-go
 
-- Programming languages: **Kotlin, Python, Java, Node.js & TypeScript**, C/C++, Rust, C# and ActionScript (which is my first PL)
-- Server frameworks: **Spring Boot, gRPC**, JPA/HibernateORM, Spring WebFlux, Django, Flask, GraphQL
-- Cloud services: **AWS**, GCP
-- Database Engines: **PostgreSQL**, MySQL, Firebase, SQLite
-- Libraries: Reactor Core, FFmpeg, Windows API, Java Swing, BeautifulSoup, Selenium, Retrofit, OpenCL
-- Server Deployment&Operation: Docker, Kubernetes, Prometheus, Grafana, Elasticsearch, Kibana, Spinnaker (Deck), Helm
-- CI/CD: Github Actions, Code Climate, Codecov
-- Platforms: Linux, Android
-- Machine Learning: Tensorflow, Caffe2
-- Performance Test Tools: k6, ghz
-- Frontend: jQuery, Vue.js
-- IaC: Terraform
-- Collaboration/Documentation Tools: Jira, Slack, Notion, Trello, MkDocs, Dokka
-- Development Tools: Git, Gradle, CMake, Make, Github Package Registry, Nexus Repository, Visual Studio Code, Intellij IDEA, WebStorm, PyCharm
-- Others: Kafka, Nginx, Jenkins, Redis, HashiCorp Vault, Detekt, ktlint
+#### Other Skills
 
-> **bold things** are more experienced, others are less.
+- Spring/JPA (Server Framework)
+- gRPC/Protobuf (Protocol)
+- Docker/Kubernetes (Container ochestration)
+- PostgreSQL (RDBMS)
+- Github Actions (CI/CD)
 
-### ✨ I'm interested in
-- High performance(high throughput/low latency), High availability (HA), Functional programming, distributed computing, DDD: Domain Driven Architecture, MSA: Microservices Architecture, Layered Architecture, Clean Architecture, TDD, parallel programming, Deep Learning, Machine Learning, Golang, Scala, Cassandra, Hadoop, Istio, Envoy
+#### Backlogs
+
+- Rust, Kafka, Redis, Istio
 
 <!--
 **hojongs/hojongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
