@@ -8,7 +8,7 @@ Hello! I'm a Software Engineer in Korea.
 
 #### Programming Language Skills
 
-- Kotlin/JVM: Mainly use in backend engieering in my career
+- Kotlin/JVM: Mainly use in backend engieering in the company
 - Python: https://github.com/hojongs/algorithm
 - Go: https://github.com/hojongs/pbkit-go
 
