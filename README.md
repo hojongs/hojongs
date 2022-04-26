@@ -4,7 +4,7 @@
 
 [![hojongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojongs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Hello! I'm a Software Engineer in Korea. I usually develop web server applications.
+Hello! I'm a Software Engineer in Korea. I usually develop web server applications.  
 I like and enjoy refactoring, performance optimization, architecture design, automating operations, and learning interesting things.
 
 #### Programming Language Skills
