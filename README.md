@@ -4,7 +4,8 @@
 
 [![hojongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojongs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Hello! I'm a Software Engineer in Korea.
+Hello! I'm a Software Engineer in Korea. I usually develop web server applications.
+I like and enjoy refactoring, performance optimization, architecture design, automating operations, and learning interesting things.
 
 #### Programming Language Skills
 
@@ -14,15 +15,15 @@ Hello! I'm a Software Engineer in Korea.
 
 #### Other Skills
 
-- Spring/JPA (Server Framework)
+- Spring/JPA (Server-side Frameworks)
 - gRPC/Protobuf (Protocol)
-- Docker/Kubernetes (Container ochestration)
+- Docker/Kubernetes (Container deployment tools)
 - PostgreSQL (RDBMS)
 - Github Actions (CI/CD)
 
 #### Backlogs
 
-- Rust, Kafka, Redis, Istio
+- Argo CD, Rust, Kafka, Redis, Istio, NoSQL(MongoDB), DynamoDB
 
 <!--
 **hojongs/hojongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
