@@ -10,11 +10,11 @@ I like and enjoy refactoring, performance optimization, architecture design, aut
 #### Programming Language Skills
 
 - Kotlin/JVM: used in the server development.
-- Python (less experience): used to write some scripts such as load testing.
+- Python(less experience): used to write some scripts such as load testing.
   - https://github.com/hojongs/algorithm
-- Go (less experience): used and will use in personal projects
+- Go(less experience): used and will use in personal projects
   - https://github.com/hojongs/pbkit-go
-- JS/TS (less experience): used in personal projects
+- JS/TS(less experience): used in personal projects
   - https://github.com/pbkit/pbkit
 
 #### Other Skills
