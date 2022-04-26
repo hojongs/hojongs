@@ -19,7 +19,7 @@ I like and enjoy refactoring, performance optimization, architecture design, aut
 
 #### Other Skills
 
-- Spring/JPA (Server-side Frameworks)
+- Spring,JPA/Hibernate (Server-side Frameworks)
 - gRPC/Protobuf (Protocol)
 - Docker/Kubernetes (Container deployment tools)
 - PostgreSQL (RDBMS)
@@ -27,7 +27,7 @@ I like and enjoy refactoring, performance optimization, architecture design, aut
 
 #### Backlogs
 
-- Argo CD, Rust, Kafka, Redis, Istio, NoSQL(MongoDB), DynamoDB
+- Argo CD, Rust, Kafka, Redis, Istio, NoSQL(MongoDB), DynamoDB, Netty
 
 <!--
 **hojongs/hojongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
