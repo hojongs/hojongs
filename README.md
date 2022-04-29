@@ -24,6 +24,7 @@ I like and enjoy refactoring, performance optimization, architecture design, aut
 - Docker/Kubernetes (Container deployment tools)
 - PostgreSQL (RDBMS)
 - Github Actions (CI/CD)
+- AWS (Cloud computing)
 
 #### Backlogs
 
