@@ -9,7 +9,7 @@ I like and enjoy refactoring, performance optimization, architecture design, aut
 
 #### Programming Language Skills
 
-- **Kotlin/JVM (Main)**: used in the server development.
+- **Kotlin/JVM (main)**: used in the server development.
 - Python: used to write some scripts such as load testing.
   - https://github.com/hojongs/algorithm
 - Go: used in personal projects.
