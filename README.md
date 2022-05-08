@@ -19,7 +19,7 @@ I'm interested in and enjoy refactoring, performance optimization, architecture 
 
 #### Other Skills
 
-- Spring,JPA/Hibernate (Server-side Frameworks)
+- Spring, JPA/Hibernate (Server-side Frameworks)
 - gRPC/Protobuf (Communication protocol)
 - Docker/Kubernetes (Container deployment tools)
 - PostgreSQL (RDBMS)
