@@ -7,6 +7,8 @@
 Hello! I'm a Software Engineer in Korea. I've often developed web server applications in my career.  
 I'm interested in and enjoy refactoring, performance optimization, architecture design, automating operations, and learning interesting things.
 
+[Resume](hojongs.github.io/resume/)
+
 #### Programming Language Skills
 
 - **Kotlin/JVM (main)**: used in the server development.
