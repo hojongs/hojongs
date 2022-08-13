@@ -16,7 +16,7 @@ I'm interested in and enjoy refactoring, performance optimization, architecture 
   - https://github.com/hojongs/algorithm
 - Go: used in personal projects.
   - https://github.com/hojongs/pbkit-go
-- JS/TS: used in personal projects.
+- JS/TS: used in contribution a open source project.
   - https://github.com/pbkit/pbkit
 
 #### Other Skills
